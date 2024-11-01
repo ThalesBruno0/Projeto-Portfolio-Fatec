@@ -4,3 +4,39 @@
     --color-3:#FF9209;
     --color-4:#FFD099;
 }
+
+.navbar-brand img{
+    width: 212px;
+    height: 200px;
+}
+
+.bg-navbar{
+    background-color: var(--color-1);
+}
+
+.nav-link{
+    color: var(--color-2);
+    transition: 0.5 ease;
+}
+
+.nav-link:hover{
+    color: var(--color-4);
+    transition: 0.5;
+}
+
+/* .nav-link:visited{
+    color: var(--color-3)
+} */
+
+.dropdown-menu{
+    background-color: var(--color-1);
+}
+
+.dropdown-item{
+    color: var(--color-4);
+}
+
+.dropdown-item:hover{
+    background-color: var(--color-2);
+}
+
