@@ -85,9 +85,12 @@ main div p{
     text-align: justify;
 }
 
+.indent{
+    text-indent: 3rem;
+}
+
 main div button{
-    margin-top: 20px;
-    padding: 10px 20px;
+    padding: 20px 30px;
     background-color: var(--color-1);
     color: var(--color-4);
     border: none;
