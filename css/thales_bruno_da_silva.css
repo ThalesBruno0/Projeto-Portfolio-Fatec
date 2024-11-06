@@ -177,6 +177,10 @@ textarea {
         width: 15rem;
     }
 
+    .img-fit {
+        width: 100%;
+    }
+
     .mapa {
         display: none;
     }
