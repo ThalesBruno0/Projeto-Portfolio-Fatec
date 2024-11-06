@@ -185,3 +185,20 @@ textarea {
         display: none;
     }
 }
+
+@media (min-width: 1200px) and (max-width: 1599px) {
+    .mapa {
+        width: 700px;
+        height: 500px;
+    }
+
+    .img-fit {
+        width: 100%;
+    }
+
+    #nome,
+    #sobrenome {
+        padding: 0.5rem;
+        width: 30rem;
+    }
+}
